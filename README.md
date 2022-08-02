@@ -1,2 +1,2 @@
 # Codewars
-CodeWars Practice with my answers notes
+My answers with notes to CodeWar problems I have solved
